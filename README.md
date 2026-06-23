@@ -1,4 +1,4 @@
-# Assignment 04 — Research Agent Pro: Human-in-the-Loop (HITL)
+# Research Agent Pro: Human-in-the-Loop (HITL)
 
 ## Problem Statement
 
