@@ -1,5 +1,5 @@
 """
-Assignment 04 — Research Agent Pro: Human-in-the-Loop (HITL)
+Research Agent Pro: Human-in-the-Loop (HITL)
 
 PROBLEM STATEMENT:
 Research Agent Pro takes an already-functional multi-tool research agent and
